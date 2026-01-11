@@ -1,0 +1,326 @@
+[
+  {
+    "start_date": "2025-09-01",
+    "description": "Labor Day - District Closed",
+    "all_day": true,
+    "title": "Labor Day"
+  },
+  {
+    "start_date": "2025-09-02",
+    "description": "Teachers Report; Collaborative Professional Development;",
+    "all_day": true,
+    "title": "Teachers back in school"
+  },
+  {
+    "start_date": "2025-09-03",
+    "description": "Teachers Report; Collaborative Professional Development;",
+    "all_day": true,
+    "title": "Teachers back in school"
+  },
+  {
+    "start_date": "2025-09-04",
+    "description": "Students Report; First Day of School; Full-Day Session",
+    "all_day": true,
+    "title": "Students back in school"
+  },
+  {
+    "start_date": "2025-09-16",
+    "description": "Elementary Schools Open House",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "Elementary Schools Open House",
+    "location": "On site"
+  },
+  {
+    "start_date": "2025-09-17",
+    "description": "Middle Schools Open House",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "Middle Schools Open House",
+    "location": "On site"
+  },
+  {
+    "start_date": "2025-09-18",
+    "description": "High Schools Open House",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "High Schools Open House",
+    "location": "On site"
+  },
+  {
+    "start_date": "2025-10-02",
+    "description": "Yom Kippur; Schools closed",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-10",
+    "description": "Week of Respect",
+    "all_day": true,
+    "title": "Week Of Respect"
+  },
+  {
+    "start_date": "2025-10-13",
+    "description": "Columbus day/Indigenous People's Day; District Closed; No School",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2025-10-16",
+    "description": "Workshop Meeting; Regular Meeting",
+    "all_day": true,
+    "title": "Workshop Meeting"
+  },
+  {
+    "start_date": "2025-10-20",
+    "description": "Diwali; No School for Students; Staff Professional Development Day",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2025-10-20",
+    "end_date": "2025-10-23",
+    "description": "NJ School Boards Association Annual Workshop",
+    "title": "NJ School Boards Association Annual Workshop"
+  },
+  {
+    "start_date": "2025-10-29",
+    "description": "PSAT Day",
+    "title": "PSAT Day"
+  },
+  {
+    "start_date": "2025-11-06",
+    "end_date": "2025-11-07",
+    "description": "NJEA Convention; Schools closed.",
+    "all_day": true,
+    "title": "NJEA Convention"
+  },
+  {
+    "start_date": "2025-11-10",
+    "description": "Veterans day observed; District closed.",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2025-11-13",
+    "description": "Marking period 2; Workshop Meeting; Regular Meeting",
+    "title": "Marking Period 2"
+  },
+  {
+    "start_date": "2025-11-18",
+    "description": "Middle Schools Open House",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "Middle Schools Open House",
+    "location": "Virtual"
+  },
+  {
+    "start_date": "2025-11-19",
+    "description": "High Schools Open House",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "High Schools Open House",
+    "location": "Virtual"
+  },
+  {
+    "start_date": "2025-11-20",
+    "description": "Elementary Schools Open House",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "Elementary Schools Open House",
+    "location": "Virtual"
+  },
+  {
+    "start_date": "2025-11-26",
+    "description": "4 hr session; 12:45 dismissal; No CASPER",
+    "title": "4 Hr Session"
+  },
+  {
+    "start_date": "2025-11-27",
+    "end_date": "2025-11-28",
+    "description": "Thanksgiving recess - district closed",
+    "all_day": true,
+    "title": "Thanksgiving Recess"
+  },
+  {
+    "start_date": "2025-12-11",
+    "description": "Workshop Meeting; Regular Meeting",
+    "title": "Workshop Meeting"
+  },
+  {
+    "start_date": "2025-12-23",
+    "description": "4 hr session; 12:45 dismissal; No CASPER",
+    "title": "Early dismissal"
+  },
+  {
+    "start_date": "2025-12-24",
+    "end_date": "2026-01-04",
+    "description": "Holiday and Winter recess - district closed",
+    "all_day": true,
+    "title": "Holiday And Winter Recess"
+  },
+  {
+    "start_date": "2026-01-05",
+    "description": "Classes resume",
+    "title": "Classes Resume"
+  },
+  {
+    "start_date": "2026-01-07",
+    "description": "Reorganization meeting",
+    "title": "Reorganization Meeting"
+  },
+  {
+    "start_date": "2026-01-19",
+    "description": "MLK Jr Day Observed",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2026-01-30",
+    "description": "Marking period 3",
+    "title": "Marking Period 3"
+  },
+  {
+    "start_date": "2026-02-10",
+    "description": "High schools open house",
+    "starts_at": "1:30pm",
+    "ends_at": "3pm",
+    "title": "High Schools Open House",
+    "location": "On site"
+  },
+  {
+    "start_date": "2026-02-11",
+    "description": "Elementary Schools Open House; No CASPER",
+    "starts_at": "1:30pm",
+    "ends_at": "3:00pm",
+    "title": "Elementary Schools Open House",
+    "location": "On site"
+  },
+  {
+    "start_date": "2026-02-12",
+    "description": "Middle schools open house",
+    "starts_at": "1:30pm",
+    "ends_at": "3:00pm",
+    "title": "Middle Schools Open House",
+    "location": "On site"
+  },
+  {
+    "start_date": "2026-02-16",
+    "description": "President's day observed; District closed",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2026-03-02",
+    "description": "Read across America celebrated",
+    "title": "Read Across America Celebrated"
+  },
+  {
+    "start_date": "2026-03-09",
+    "end_date": "2026-03-13",
+    "description": "Sneak-a-peek; Parents get to visit public schools, get a tour and learn about schools. Time varies by school.",
+    "all_day": true,
+    "title": "Sneak-a-peek"
+  },
+  {
+    "start_date": "2026-03-19",
+    "description": "1/2 day for students; No CASPER; Staff Professional Development",
+    "title": "Half day and no casper"
+  },
+  {
+    "start_date": "2026-03-20",
+    "description": "Eid-al-Fitr; tentative date; schools closed.",
+    "title": "Schools tentatively closed"
+  },
+  {
+    "start_date": "2026-04-02",
+    "description": "4 hr session; 12:45 dismissal; No CASPER",
+    "title": "Early dismissal"
+  },
+  {
+    "start_date": "2026-04-03",
+    "description": "Good Friday; District closed",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2026-04-06",
+    "end_date": "2026-04-10",
+    "description": "Spring break; schools closed; central office open",
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2026-04-13",
+    "description": "Classes resume",
+    "title": "Classes Resume"
+  },
+  {
+    "start_date": "2026-04-13",
+    "end_date": "2026-04-17",
+    "description": "Week of the young child",
+    "title": "Week Of The Young Child"
+  },
+  {
+    "start_date": "2026-04-15",
+    "description": "Marking period 4",
+    "title": "Marking Period 4"
+  },
+  {
+    "start_date": "2026-04-28",
+    "description": "Elementary schools report card; No CASPER",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "Elementary Schools Report Card",
+    "location": "Virtual"
+  },
+  {
+    "start_date": "2026-04-29",
+    "description": "Middle schools report card",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "Middle Schools Report Card",
+    "location": "Virtual"
+  },
+  {
+    "start_date": "2026-04-30",
+    "description": "High schools report card",
+    "starts_at": "6:30pm",
+    "ends_at": "8:00pm",
+    "title": "High Schools Report Card",
+    "location": "Virtual"
+  },
+  {
+    "start_date": "2026-05-21",
+    "description": "Parents as Partners conference",
+    "title": "Parents As Partners Conference"
+  },
+  {
+    "start_date": "2026-05-22",
+    "description": "4 hr session; 12:45 dismissal; No CASPER",
+    "title": "Early dismissal"
+  },
+  {
+    "start_date": "2026-05-25",
+    "description": "Memorial day observed; district closed",
+    "all_day": true,
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2026-06-16",
+    "end_date": "2026-06-18",
+    "description": "1/2 day session if no emergency days needed",
+    "title": "1/2 Day Session If No Emergency Days Needed"
+  },
+  {
+    "start_date": "2026-06-19",
+    "description": "Juneteenth; District closed",
+    "title": "Schools closed"
+  },
+  {
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-24",
+    "description": "Emergency Day",
+    "title": "Emergency Day"
+  }
+]
